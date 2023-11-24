@@ -6,6 +6,10 @@
 
 <h2>About me</h2>
 
+- 🔭 I’m currently working on [my last training final project](https://github.com/StormLbn/java_m2i_final)
+- 🤝 I’m looking for help to find small project ideas for my protfolio
+- 🌱 I’m currently learning more about **Angular**
+
 ```python
 class StormLbn:
     def __init__(self):
@@ -32,12 +36,6 @@ if __name__ == '__main__':
     print(me)
 ```
 
-- 🔭 I’m currently working on [my last training final project](https://github.com/StormLbn/java_m2i_final)
-- 🤝 I’m looking for help to find small project ideas for my protfolio
-- 🌱 I’m currently learning more about **Angular**
-
-
-
 <h2 align="left">My skills</h2>
 <h3 align="center">Languages and Frameworks:</h3>
 <p align="center">
@@ -61,8 +59,8 @@ if __name__ == '__main__':
     <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git icon" title="Git" height="50"/></a>
     <a href="https://github.com/"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github icon" title="GitHub" height="50"/></a>
     <a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker icon" title="Docker" height="50"/></a>
-    <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello icon" title="Trello" height="50"/></a>
-    <a href="https://www.trello.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma icon" title="Figma" height="50"/></a>
+    <a href="https://www.trello.com/"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello icon" title="Trello" height="50"/></a>
+    <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma icon" title="Figma" height="50"/></a>
     <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman icon" title="Postman" height="50"/></a>
  </p>
 
